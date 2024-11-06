@@ -1,5 +1,7 @@
 # BreadcrumbsE-Vot-Decentralized-Voting-App
 
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/1df1c9a4-1a23-4ebe-aeda-9a2622710919">
+
 ## Overview
 The **MultiElectionVoting** smart contract is designed to manage multiple elections, allowing for the registration of candidates and voters, as well as the recording of votes in a decentralized and secure manner. The contract leverages the ERC2771Context for meta-transactions, ensuring that operations are executed within the context of trusted forwarders.
 
