@@ -1,6 +1,4 @@
-# e-volt
-
-# MultiElectionVoting Smart Contract
+# BreadcrumbsE-Vot-Decentralized-Voting-App
 
 ## Overview
 The **MultiElectionVoting** smart contract is designed to manage multiple elections, allowing for the registration of candidates and voters, as well as the recording of votes in a decentralized and secure manner. The contract leverages the ERC2771Context for meta-transactions, ensuring that operations are executed within the context of trusted forwarders.
@@ -114,5 +112,9 @@ Here is the contract address **0x170Bbd5A102B995517B133aa6b9275d103B9a120**
 ### Issues
 If you encounter any bugs or issues, please open an issue in the repository with detailed information on how to reproduce the problem.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+--- 
+
+### Demo Vedio:
+
+https://github.com/user-attachments/assets/c9c0ffc2-4c19-4fb3-b2b6-dfa016145bb9
+
