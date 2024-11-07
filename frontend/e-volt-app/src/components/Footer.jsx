@@ -2,6 +2,7 @@ import React from 'react'
 import Link from "next/link";
 
 export default function Footer() {
+  
   return (
     <footer className='bg-[#FAFAFA] w-screen py-8 px-20 mt-20'>
         <div className='flex items-center justify-start border-b-2 pb-4'>
